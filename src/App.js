@@ -1,6 +1,6 @@
 import { useState } from "react";
 import "./App.css";
-import { Rate } from "./components/star";
+import { Rate } from "./components/Star";
 
 function App() {
   const [note, setNote] = useState(4);
